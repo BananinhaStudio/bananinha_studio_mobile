@@ -3,7 +3,7 @@ description: "A simple image editor integrated with Google Gemini 2.5 Flash Imag
 
 publish_to: "none"
 homepage: https://softyes.com.br
-repository: https://github.com/RotaFeita/rotafeita_mobile
+repository: https://github.com/BananinhaStudio/bananinha_studio_mobile
 
 version: 0.1.0+1
 
